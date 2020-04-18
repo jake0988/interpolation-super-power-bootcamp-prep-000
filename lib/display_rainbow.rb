@@ -7,5 +7,5 @@ def display_rainbow(num)
   print "#{colors[3]}#{num[3]}, "
   print "#{colors[4]}#{num[4]}, "
   print "#{colors[5]}#{num[5]}, "
-  print "#{colors[6]}#{num[6]}"
+  puts "#{colors[6]}#{num[6]}"
 end
