@@ -1,10 +1,10 @@
 def display_rainbow(num)
   colors = ['R: red', 'O: orange', 'Y: yellow', 'G: green', 'B: blue', 'I: indigo', 'V: violet']
   puts "#{colors[0]}"
-  puts "O: orange #{colors[1]}"
-  puts "Y: yellow #{colors[2]}"
-  puts "G: green #{colors[3]}"
-  puts "B: blue #{colors[4]}"
-  puts "I: indigo #{colors[5]}"
-  puts "V: violet #{colors[6]}"
+  puts "#{colors[1]}"
+  puts "#{colors[2]}"
+  puts "#{colors[3]}"
+  puts "#{colors[4]}"
+  puts "#{colors[5]}"
+  puts "#{colors[6]}"
 end
